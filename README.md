@@ -1,5 +1,5 @@
 
-# 🌍 Universal Google Maps Data Scraper (without google API)
+# 🌍 Universal Google Maps Data Scraper (Without Google API)
 
 A powerful and flexible tool that scrapes business information from Google Maps based on geographic and industry-specific parameters like pincode, city, state, country, and industry (e.g., food, automobile, beauty). This scraper allows you to gather essential business data for research, lead generation, and business development from any region across the globe.
 
